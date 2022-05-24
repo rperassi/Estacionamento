@@ -13,4 +13,5 @@ fim
 
 # FLUXOGRAMA
 
+![Fluxograma Estacionamento](https://user-images.githubusercontent.com/104398779/169934783-908c8d27-4d9c-4032-9a5c-2abdab015375.png)
 
